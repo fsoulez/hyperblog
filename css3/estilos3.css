@@ -8,19 +8,23 @@ body
     padding: 0%;
 
 }
-#container
+#cabecera
 {
+    background:#33a;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 5);
+    color: white;
+    font-weight: bold;
     width: 70%;
     padding: 1em;
     text-align: left;
     border: 1px solid #ddd;
     margin: 0% auto;
 }
-#container h1
+#cabecera #tagline
 {
     font-size: 40px;
 }
 #container p
 {
-    font-size: 20px;
+    font-size: 20 px;
 }
